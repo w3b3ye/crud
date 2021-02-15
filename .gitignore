@@ -1,0 +1,11 @@
+db.sqlite3
+manage.py
+
+venv_crud
+
+src/*
+!/src/urls.py
+
+enroll/migrations
+enroll/__init__.py
+enroll/__pycache__

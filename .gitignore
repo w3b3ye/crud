@@ -9,3 +9,4 @@ src/*
 enroll/migrations
 enroll/__init__.py
 enroll/__pycache__
+enroll/static/*

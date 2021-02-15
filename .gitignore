@@ -6,7 +6,8 @@ venv_crud
 src/*
 !/src/urls.py
 
+enroll/static/enroll/css/bootstrap.min.css
 enroll/migrations
 enroll/__init__.py
 enroll/__pycache__
-enroll/static/*
+
